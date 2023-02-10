@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile! 👋
 
 ### About me 👨‍💻
-Hey there! I'm Ebubekir SAHIN, a Software Test Engineer from Germany, Mecklenburg-Vorpommern/Neubrandenburg.
+Hey there! I'm Ebubekir SAHIN, a Software Test Engineer from Germany, Mecklenburg-Vorpommern.
 
 ### Languages 💻
 - Javascript
