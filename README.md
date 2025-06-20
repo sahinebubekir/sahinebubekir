@@ -40,4 +40,4 @@ I enjoy breaking things with purpose and building them back stronger.
 ---
 
 ### 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/sahinebubekir/)
+- [LinkedIn](https://www.linkedin.com/in/ebubekirsahin/)
